@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "manifest_version": 3,
     "name": "Cheeky summaries",
@@ -8,3 +9,21 @@
       "128": "images/icon-128.png" // come back to this
     },
   }
+=======
+{
+    "manifest_version": 3,
+    "name": "Cheeky summaries",
+    "version": "1.0.0",
+    "description": "Summarizing your web pages for you",
+    "icons": {
+      "48": "images/icon-48.png", // come back to this
+      "128": "images/icon-128.png", // come back to this
+      "permissions": [
+        
+        "active tab",
+        "storage"
+
+      ],
+    }
+  }
+>>>>>>> f81b9eba442667a16bba0a604b78eaa67fba7ccc
